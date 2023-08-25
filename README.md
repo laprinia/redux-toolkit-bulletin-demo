@@ -1,4 +1,4 @@
-🥗🥣 Redux Bulletin App
+📩📯 Redux Bulletin App
 
 * Has two reducers: one for managing users and one for managing posts
 * Uses thunk to make async calls to the jsonplaceholder API
