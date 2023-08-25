@@ -1,4 +1,4 @@
-📩📯 Redux Bulletin App
+## 📩📯 Redux Bulletin App
 
 --Part of the Redux course I was taking
 
